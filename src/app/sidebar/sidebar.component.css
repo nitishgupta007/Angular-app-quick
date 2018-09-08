@@ -1,0 +1,26 @@
+.sidebar{
+    height: 100%;
+    position: absolute;
+    width: 14.5rem;
+    background: #54636c;
+    color: #687484;
+    margin: 0;
+}
+.nav__control ul li{
+    list-style: none;
+    padding: 12px;
+}
+.nav__control ul {
+    margin: 0px;
+    padding-left: 5px;
+}
+ 
+.sidenav__icon{
+    height: 1em;
+    vertical-align: -.125em;
+    width: 1em;
+    fill: white;
+}
+.sidenav__control{
+    color:#ffffff;
+}
